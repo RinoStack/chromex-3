@@ -1,0 +1,9 @@
+{
+  "name": "chromex",
+  "version": "1.0.0",
+  "description": "Chrome side-panel AI assistant",
+  "manifest_version": 3,
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+    "typescript": "^5.0.0"
+}
